@@ -159,6 +159,10 @@ var UIController = (function(){
 			fieldsArr[0].focus();
 		},
 
+		displayBudget:function(obj){
+			
+		},
+
 		//return domstrings value to public
 		getDOMstrings: function(){
 			return DOMstrings;
